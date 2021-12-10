@@ -1,6 +1,6 @@
-# Home-depot-product-search-relevance-Kaggle-competition-project
+# Home depot product search relevance - Kaggle competition project
 
-This data has information about an online shopping website of a Home Depot Shop. The relevant columns in data are -
+This data has information about an online shopping website of a Home Depot Shop. The relevant columns in data are:
 1. The search query that the user puts while searching the product  
 2. The title of the product that the website returns  
 3. The description of the product the website returns   
